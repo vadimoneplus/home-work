@@ -1,0 +1,18 @@
+.App {
+    --header_height: 60px;
+    margin-left: 100px;
+}
+
+.hw {
+background-color: #FFFFFF;
+
+}
+.hwMessage{
+    display: flex;
+    justify-content: space-between;
+}
+.hwTitle {
+    margin-top: 130px;
+    font-weight: bold;
+    font-size: 24px;
+}
